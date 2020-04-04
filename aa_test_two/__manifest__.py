@@ -20,7 +20,7 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['contacts'],
+    'depends': ['contacts', 'pad', 'payment_paypal', 'product'],
 
     # always loaded
     'data': [
