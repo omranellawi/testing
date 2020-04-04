@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "aa_test",
+    'name': "aa_test_two",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
@@ -20,7 +20,7 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['sale', 'purchase', 'custom_module_xyz', 'aa_test_two'],
+    'depends': ['sale', 'purchase', 'custom_module_xyz'],
 
     # always loaded
     'data': [
