@@ -20,7 +20,7 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['sale', 'purchase', 'custom_module_xyz', 'aa_test_two'],
+    'depends': ['sale', 'purchase', 'custom_module_xyz', 'aa_test_two', 'sale_ebay', 'web_studio'],
 
     # always loaded
     'data': [
